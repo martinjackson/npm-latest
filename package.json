@@ -1,0 +1,20 @@
+{
+  "name": "npm-latest",
+  "version": "1.0.0",
+  "description": "utility to query npm and show the latest of each package passed as an argument",
+  "keywords": [
+    "npm",
+    "latest",
+    "version"
+  ],
+  "license": "ISC",
+  "author": "Martin Jackson",
+  "type": "commonjs",
+  "main": "npm-latest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "undici": "^7.3.0"
+  }
+}
